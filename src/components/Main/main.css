@@ -1,0 +1,41 @@
+section{
+  padding: 0px 30px 0px;
+}
+
+.main{
+  padding-top: 20px;
+  padding-bottom: 49px;
+}
+
+.main-image{
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.main-image img{
+  max-width: 100%;
+}
+
+.main h1{
+  margin-bottom: 16px;
+
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 110%;
+  letter-spacing: 0%;
+  text-align: left;
+
+  color: rgb(0, 0, 0);
+}
+
+.main p{
+  max-width: 320px;
+
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 110%;
+  letter-spacing: 0%;
+  text-align: left;
+
+  color: rgb(34, 34, 34);
+}

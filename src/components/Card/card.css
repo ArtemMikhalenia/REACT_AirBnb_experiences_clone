@@ -1,0 +1,80 @@
+.card{
+  max-width: 176px;
+  width: 100%;
+  position: relative;
+}
+
+.card-top-section,
+.card-image{
+  max-height: 235px;
+}
+
+.card-top-section{
+  margin-bottom: 9px;
+}
+
+.card-status{
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  padding: 5px 6px;
+
+  font-size: 10.24px;
+  line-height: 110%;
+  text-align: center;
+  text-transform: uppercase;
+
+  border-radius: 2px;
+  color: rgb(34, 34, 34);
+  background-color: rgb(255, 255, 255);
+}
+
+.card-image img{
+  max-width: 100%; 
+  width: 100%;
+}
+
+.card-rating{
+  margin-bottom: 8px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+  text-align: left;
+
+  color: rgb(145, 142, 155);
+}
+.card-rating-number{
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+  text-align: left;
+
+  color: rgb(34, 34, 34);
+}
+.star-icon{
+  max-width: 14px;
+  width: 100%;
+}
+.card-title{
+  margin-bottom: 8px;
+
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+  text-align: left;
+
+  color: rgb(34, 34, 34);
+}
+
+.card-price{
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+  text-align: left;
+
+  color: rgb(34, 34, 34);
+}
+
+.card-price span{
+  font-weight: 600;
+}
